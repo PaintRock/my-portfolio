@@ -124,7 +124,7 @@ export default function HeroSection() {
               <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
               🚀 I thrive on solving complex challenges and I'm driven by continuous learning 
               and a commitment to excellence, whether working independently or 
-              collaborating with diverse teams to create impactful, scalable solutions.
+              collaborating with diverse teams to create impactful solutions.
             </p>
           </div>
         </MotionWrapper>
